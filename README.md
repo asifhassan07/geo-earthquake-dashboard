@@ -232,3 +232,27 @@ src/
     parseEarthquakeCsv.ts        # Fetch + parse USGS CSV
   App.tsx
   main.tsx
+
+##  Use of AI Tools in Development
+1. Planning & Architecture
+AI helped interpret the project requirements and suggest.
+
+2. Debugging & Issue Resolution
+AI supported troubleshooting for:
+ Tailwind, PostCSS, and Vite configuration errors  
+ TypeScript type mismatches and module import issues  
+ PapaParse CSV parsing errors  
+ Recharts event typing problems  
+ Zustand store typing and reactivity bugs  
+
+All fixes were manually validated and integrated into the final code.
+
+I used AI tools as a supportive resource to improve efficiency and clarity during the development of this project.
+They assisted with clarifying assignment requirements, suggesting architectural patterns, resolving configuration issues (Tailwind, Vite, TypeScript), and providing example code snippets for components, state management, and CSV parsing.
+
+All AI-generated suggestions were manually reviewed, adapted, and integrated into the final implementation.
+AI suggested code was used after modification or understanding.
+All design decisions, debugging, refactoring, and architecture were carried manually and for the fixation of any error the help of AI was used.
+
+AI also assisted in drafting documentation, including setup instructions, feature descriptions.
+
